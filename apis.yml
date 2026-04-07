@@ -1,7 +1,12 @@
 aid: caci-international
-url: https://raw.githubusercontent.com/api-evangelist/caci-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/caci-international/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.caci-international.com
+description: >-
+  CACI International provides information technology, professional services, and managed
+  solutions to U.S. federal government agencies in the defense, intelligence, homeland
+  security, and civilian markets.

@@ -66,6 +66,38 @@ common:
     url: https://www.caci.com/privacy-policy
   - type: Terms of Service
     url: https://www.caci.com/terms-and-conditions
+  - type: Integrations
+    url: https://www.caci.com/partners
+integrations:
+  - name: Main Nav Hero 1
+  - name: C3I Menu
+  - name: Cyber Menu
+  - name: DS Menu
+  - name: EIT Menu
+  - name: MES Menu
+  - name: Space Menu
+  - name: Featured Article 1
+  - name: About CACI
+  - name: Corporate Social Responsibility
+  - name: Culture
+  - name: Contracts
+  - name: News Releases
+  - name: Amazon Web Services
+  - name: Gitlab
+  - name: Intel
+  - name: Linux
+  - name: Red Hat
+  - name: UiPath
+  - name: Kubernetes
+  - name: Elastic
+  - name: Ansible
+  - name: HPE
+  - name: Scaled Agile
+  - name: Juniper networks
+  - name: Splunk
+  - name: SAP
+  - name: Servicenow
+  - name: Databricks
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

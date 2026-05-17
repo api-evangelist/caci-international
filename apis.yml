@@ -11,7 +11,7 @@ tags:
   - National Security
   - Company
 type: Index
-x-type: company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2026-03-21'
@@ -62,9 +62,9 @@ common:
     url: https://careers.caci.com
   - type: Contracts
     url: https://www.caci.com/contracts
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.caci.com/privacy-policy
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.caci.com/terms-and-conditions
   - type: Integrations
     url: https://www.caci.com/partners

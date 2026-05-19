@@ -50,6 +50,10 @@ apis:
       currently documented; corporate, capabilities, investor, newsroom,
       careers, and contracts properties are published online.
 common:
+  - type: GitHubOrganization
+    url: https://github.com/CACI-International
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/caci-international-inc
   - type: Website
     url: https://www.caci.com
   - type: Capabilities

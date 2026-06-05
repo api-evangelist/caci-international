@@ -1,0 +1,95 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "caci": "https://www.caci.com/vocab/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "CACIInternational": {
+      "@id": "schema:Organization",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "url": {
+      "@id": "schema:url",
+      "@type": "@id"
+    },
+    "description": "schema:description",
+    "industry": "schema:industry",
+    "foundingDate": "schema:foundingDate",
+    "legalName": "schema:legalName",
+    "areaServed": "schema:areaServed",
+    "knowsAbout": "schema:knowsAbout",
+
+    "Capability": {
+      "@id": "caci:Capability",
+      "@type": "@id"
+    },
+    "capabilityArea": "caci:capabilityArea",
+    "missionDomain": "caci:missionDomain",
+
+    "C3I": {
+      "@id": "caci:C3I",
+      "@type": "@id",
+      "label": "Command, Control, Communications, and Intelligence"
+    },
+    "CyberSecurity": {
+      "@id": "caci:CyberSecurity",
+      "@type": "@id",
+      "label": "Cybersecurity Solutions"
+    },
+    "DigitalSolutions": {
+      "@id": "caci:DigitalSolutions",
+      "@type": "@id",
+      "label": "Digital Transformation Solutions"
+    },
+    "EnterpriseIT": {
+      "@id": "caci:EnterpriseIT",
+      "@type": "@id",
+      "label": "Enterprise Information Technology"
+    },
+    "MissionEngineering": {
+      "@id": "caci:MissionEngineering",
+      "@type": "@id",
+      "label": "Mission and Engineering Support"
+    },
+    "SpaceSpectrum": {
+      "@id": "caci:SpaceSpectrum",
+      "@type": "@id",
+      "label": "Space and Spectrum Superiority"
+    },
+    "IntelligenceAnalysis": {
+      "@id": "caci:IntelligenceAnalysis",
+      "@type": "@id",
+      "label": "Intelligence Analysis Services"
+    },
+    "HomelandSecurity": {
+      "@id": "caci:HomelandSecurity",
+      "@type": "@id",
+      "label": "Homeland Security Services"
+    },
+    "Contract": {
+      "@id": "caci:Contract",
+      "@type": "@id"
+    },
+    "contractVehicle": "caci:contractVehicle",
+    "agencyCustomer": "caci:agencyCustomer",
+    "clearanceLevel": "caci:clearanceLevel",
+
+    "NewsRelease": {
+      "@id": "schema:NewsArticle",
+      "@type": "@id"
+    },
+    "datePublished": "schema:datePublished",
+    "headline": "schema:headline",
+
+    "GovernmentAgency": {
+      "@id": "schema:GovernmentOrganization",
+      "@type": "@id"
+    },
+    "DefenseAgency": {
+      "@id": "caci:DefenseAgency",
+      "@type": "@id"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+vocabulary:
+  name: CACI International Vocabulary
+  description: >-
+    Key concepts, domains, and terminology used by CACI International in
+    delivering national security technology, IT services, and professional
+    services to U.S. federal government and defense agencies.
+  version: "1.0"
+  terms:
+
+    - term: C3I
+      definition: >-
+        Command, Control, Communications, and Intelligence — integrated
+        systems and solutions enabling military and government decision-makers
+        to collect, process, and act on battlefield and operational information.
+      tags:
+        - defense
+        - military
+        - communications
+        - intelligence
+
+    - term: Cybersecurity
+      definition: >-
+        Technology, processes, and practices designed to protect networks,
+        systems, and data from cyber attacks, unauthorized access, and damage,
+        particularly within classified and sensitive government environments.
+      tags:
+        - security
+        - defense
+        - information-assurance
+        - government
+
+    - term: Digital Solutions
+      definition: >-
+        Technology-driven modernization and transformation services including
+        cloud migration, data analytics, artificial intelligence, and software
+        development delivered to federal government customers.
+      tags:
+        - digital-transformation
+        - cloud
+        - AI
+        - modernization
+
+    - term: Enterprise IT
+      definition: >-
+        Large-scale information technology infrastructure, managed services,
+        and IT operations support across federal civilian and defense agency
+        environments, including network management and service desk functions.
+      tags:
+        - IT-services
+        - infrastructure
+        - managed-services
+        - government
+
+    - term: Mission Engineering Support
+      definition: >-
+        Systems engineering, program management, logistics, and technical
+        support services aligned to specific military or intelligence agency
+        operational missions.
+      tags:
+        - engineering
+        - logistics
+        - program-management
+        - defense
+
+    - term: Space and Spectrum Superiority
+      definition: >-
+        Capabilities focused on satellite systems, space domain awareness,
+        electromagnetic spectrum operations, and electronic warfare to maintain
+        U.S. advantages in contested space and spectrum environments.
+      tags:
+        - space
+        - satellite
+        - spectrum
+        - electronic-warfare
+
+    - term: Contract Vehicle
+      definition: >-
+        A pre-competed, pre-approved procurement mechanism (e.g., IDIQ, GWAC,
+        BPA) through which U.S. federal agencies can acquire CACI's services
+        without conducting a full and open competition for each task order.
+      tags:
+        - procurement
+        - contracting
+        - federal
+        - acquisition
+
+    - term: Intelligence Analysis
+      definition: >-
+        All-source, human, signals, and geospatial intelligence analysis
+        services supporting national security decision-making for the
+        Intelligence Community and Department of Defense.
+      tags:
+        - intelligence
+        - national-security
+        - analysis
+        - DoD
+
+    - term: Cleared Personnel
+      definition: >-
+        Employees holding active U.S. government security clearances (Secret,
+        Top Secret, TS/SCI) required to perform work on classified government
+        programs and within secure facilities.
+      tags:
+        - security-clearance
+        - personnel
+        - classified
+        - government
+
+    - term: Homeland Security
+      definition: >-
+        Services and technology solutions supporting border protection,
+        immigration enforcement, disaster response, and critical infrastructure
+        protection for DHS and related civilian security agencies.
+      tags:
+        - homeland-security
+        - DHS
+        - border
+        - critical-infrastructure
+
+    - term: Task Order
+      definition: >-
+        A specific work assignment issued against an existing contract vehicle,
+        detailing scope, period of performance, and funding for a defined set
+        of services or deliverables.
+      tags:
+        - contracting
+        - procurement
+        - federal
+        - acquisition
+
+    - term: IDIQ
+      definition: >-
+        Indefinite Delivery, Indefinite Quantity — a federal contract type
+        providing for an indefinite quantity of services during a fixed period,
+        used by agencies to issue task orders to pre-approved contractors like CACI.
+      tags:
+        - contracting
+        - procurement
+        - federal
+        - acquisition

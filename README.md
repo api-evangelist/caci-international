@@ -27,10 +27,6 @@ CACI International provides information technology, professional services, and m
 
 ## APIs
 
-### CACI International
-CACI International delivers national security technology and expertise to U.S. federal government agencies. No public developer API is currently documented.
-
-**Human URL:** [https://www.caci.com](https://www.caci.com)
 
 ## Common Properties
 

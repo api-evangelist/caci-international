@@ -39,7 +39,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/caci-international.png
 access: 3rd-Party
 created: '2026-03-21'
-modified: '2026-07-25'
+modified: '2026-10-06'
 position: Producing
 description: >-
   CACI International provides information technology, professional services,
@@ -49,6 +49,10 @@ description: >-
   IT, mission support, space, and spectrum superiority domains.
 apis: []
 common:
+  - url: https://investor.caci.com/news
+    type: Blog
+  - url: https://investor.caci.com/news?pagetemplate=rss
+    type: BlogRSS
   - type: DomainSecurity
     url: security/caci-international-domain-security.yml
   - type: GitHubOrganization
